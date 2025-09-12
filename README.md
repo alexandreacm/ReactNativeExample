@@ -2,12 +2,6 @@
 
 ReactNativeExample CICD
 
-NEW LINE
+I am editing the README file
 
-I'm adding something only for branch test
-
-I am editing this file again
-
-alexandreacm-dev
-
-bla bla bla
+`Command here`
